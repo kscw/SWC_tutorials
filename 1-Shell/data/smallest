@@ -1,0 +1,2 @@
+#!/bin/bash
+wc * | sort -g --key=3 | head -n 1
